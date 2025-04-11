@@ -23,12 +23,12 @@ on:
         type: string
       bundle_id:
         description: "Modify the bundle ID"
-        default: "com.google.ios.youtube"
+        default: "com.google.ios.youtubeplus"
         required: true
         type: string
       app_name:
         description: "Modify the app name"
-        default: "YouTube"
+        default: "YouTube+"
         required: true
         type: string
       commit_id:
